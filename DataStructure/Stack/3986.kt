@@ -1,4 +1,4 @@
-package String
+package DataStructure.Stack
 
 fun goodWord(){
     var result = 0
